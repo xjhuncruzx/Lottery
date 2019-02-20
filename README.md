@@ -1,3 +1,2 @@
 # Lottery
-<img src="https://imgur.com/a/XOkeu57" alt="Sample"  width="100%">
-<br>
+<img src="https://imgur.com/a/XOkeu57" width="100%" height="100%" border="5">
