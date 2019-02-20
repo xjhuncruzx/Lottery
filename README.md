@@ -1,4 +1,4 @@
-# Lottery
+# Process Flow Diagram for Lottery
 
 <h3>Simple Lottery</h2>
 <img src="https://i.imgur.com/Yl3KnGf.png" alt "Sample" width="100%">
