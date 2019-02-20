@@ -1,2 +1,5 @@
 # Lottery
-<img src="https://imgur.com/a/XOkeu57" width="100%" height="100%" border="5">
+
+<h3>Sample Lottery</h2>
+<img scr="https://i.imgur.com/YHzJkCV.png/" alt "Sample" width="100%">
+<br>
